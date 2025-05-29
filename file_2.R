@@ -1,0 +1,1 @@
+# The circumference of the earth equals 40 000 km

@@ -4,3 +4,22 @@ output: html_document
 ---
 
 The current R markdown file is part of the report chapter on code management of Edoardo Enria and Elia Cornali.
+
+## Setup
+```{r setup, message=FALSE}
+
+# Load libraries
+library(usethis)
+
+```
+
+## Project configuration
+
+```{r project configuration, message=FALSE}
+
+# Configure your project
+usethis::use_git_config(user.name = "EliaCornali",
+               user.email = "elia.cornali@students.unibe.ch")
+
+
+```
