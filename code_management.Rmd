@@ -1,0 +1,6 @@
+---
+title: "code_management"
+output: html_document
+---
+
+The current R markdown file is part of the report chapter on code management of Edoardo Enria and Elia Cornali.
